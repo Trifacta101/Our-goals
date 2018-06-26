@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <a href="https://codepen.io/aaronthebest201/pen/WyJbqp">Home</a>
+  <a href="Hyper-Pro-S">Home</a>
   <header>
     <h1 style="text-align:center;">Our Goals
   </header>
