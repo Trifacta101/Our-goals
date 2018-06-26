@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <a href="Hyper Pro-S">Home</a>
+  <a href="">Home</a>
   <header>
     <h1 style="text-align:center;">Our Goals
   </header>
